@@ -34,4 +34,4 @@ Documentation: https://turnitin-nexus.softyx.xyz
 **Step 3.** Run the setup file and follow the on-screen instructions.
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.                  
+> This project is shared as-is. All product names and logos belong to their respective owners.                   
